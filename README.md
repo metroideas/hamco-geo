@@ -6,8 +6,5 @@ Most boundaries are redrawn every 10 years to reflect the most recent census fig
 
 Exceptions:
 
-+ School zone boundaries
-+ Election precincts
-+ Municipal boundaries
-
-
++ School zone boundaries, adjusted in summer
++ Municipal boundaries, adjusted by annexation
